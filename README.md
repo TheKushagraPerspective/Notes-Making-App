@@ -77,7 +77,7 @@ node server.js
 
 Tech Stack
 
-Frontend: React + Vite
+Frontend: React
 
 Backend: Node.js, Express.js
 
@@ -114,3 +114,4 @@ This project is licensed under the MIT License.
 
 
 Would you like me to also add **screenshots & API documentation section** in the README (for routes lik
+
